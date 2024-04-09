@@ -10120,8 +10120,8 @@ img.react-parallax-bgimage {
     Header Area 
 =======================*/
 .header-area {
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
   z-index: 999;
   position: relative;
 }
